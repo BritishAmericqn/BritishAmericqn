@@ -1,5 +1,5 @@
 # 💫 About Me:
-Proprietary simulation software and various other fun projects.<br>Love to collaborate wherever possible to expand my knowledge while contributing to others.<br>Currently learning Python, C++, and Java and AI applications.<br>Pro Tip: it's not about how many languages you know, but what you can do with one.
+Proprietary simulation software and various other fun projects.<br>Love to collaborate wherever possible to expand my knowledge while contributing to others.<br>Currently learning Python, C++, and Java and AI applications.<br>
 
 
 ## 🌐 Socials:
